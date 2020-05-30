@@ -7,3 +7,7 @@
 3333
 
 All git add
+
+Now here git not add
+
+Use git commit -A tj Now here git not add
