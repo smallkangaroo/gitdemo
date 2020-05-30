@@ -1,1 +1,42 @@
 111111
+
+
+2222
+
+
+<<<<<<< Updated upstream
+3333
+
+All git add
+
+Now here git not add
+
+Use git commit -A tj Now here git not add
+=======
+Stash1
+>>>>>>> Stashed changes
+
+Apply stash
+
+
+Add 1
+
+Add. 2
+
+
+
+
+Add.  1
+
+
+Add   2
+
+
+
+Add
+
+
+Not add
+
+99
+
